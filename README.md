@@ -32,7 +32,7 @@
   <br>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ">mail.com</a>
 </p>
