@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img title="Banner" src="images/Github Banner.jpg">
 
-<img title="Banner" src="images/banner.png">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 
 <h1 align="center">
